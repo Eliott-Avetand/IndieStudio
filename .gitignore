@@ -1,0 +1,13 @@
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CMakeCache.txt
+Makefile
+bomberman
+CMakeFiles
+.vscode/
+vgcore.*
+_deps/
+build/
+launch.sh
+bomberman.exe
